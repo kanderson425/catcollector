@@ -1,0 +1,1 @@
+web: catcollector-app.wsgi
